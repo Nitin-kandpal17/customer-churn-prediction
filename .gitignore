@@ -1,1 +1,6 @@
 venv/\n__pycache__/\n*.pkl\n.ipynb_checkpoints/
+# Ignore processed datasets
+data/X_train_sm.csv
+data/y_train_sm.csv
+data/X_test.csv
+data/y_test.csv
