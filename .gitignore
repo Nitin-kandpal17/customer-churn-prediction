@@ -4,3 +4,6 @@ data/X_train_sm.csv
 data/y_train_sm.csv
 data/X_test.csv
 data/y_test.csv
+# Ignore saved models
+*.pkl
+*.joblib
